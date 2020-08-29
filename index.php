@@ -340,7 +340,7 @@
                 ?>
 			</div>
 			<div class="header_item">
-				<a href="userProfile.php"><img class="user_icon" src="https://www.shareicon.net/download/2016/11/09/851666_user_512x512.png"></a>
+				<a href="userProfile.php"><img class="user_icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQf2j71u2ipMbi4uUIcRaomOvJOSPkvvUPWFA&usqp=CAU"></a>
 				<div class="header_item" style="display: inline; width: 30px;">
 					<img class="user_icon" onclick="logOut()" src="https://www.freeiconspng.com/uploads/shutdown-icon-28.png">
 				</div>
@@ -366,7 +366,7 @@
 			<div id="main_dropdown_items">
 				<a href="upload_pic.php"><p>Capture picture</p></a>
 			</div>
-			<img id="post_pic" src="http://3.bp.blogspot.com/-p29CGVu_22Q/VcEIostZOQI/AAAAAAAAgZc/lpFp91hkPzw/s1600/CameraNext.png">
+			<img id="post_pic" src="https://icons.iconarchive.com/icons/vexels/office/1024/email-send-icon.png">
 		</div>
 
 		<div id="likes_dropdown">

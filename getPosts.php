@@ -76,7 +76,7 @@
 									</div>
 									<div class='comment_container'>
 										<input class='comment_box' id='".$textId."' type='text'/>
-										<img onclick=sendComment('".$commentId."') class='post_comment' src='http://icons-for-free.com/free-icons/png/512/2540587.png'>
+										<img onclick=sendComment('".$commentId."') class='post_comment' src='https://www.shareicon.net/data/2016/08/04/806708_email_512x512.png'>
                                     </div>
 								</div>
 								<p id=$emailId style='display: none;'>".$email['email']."</p>
